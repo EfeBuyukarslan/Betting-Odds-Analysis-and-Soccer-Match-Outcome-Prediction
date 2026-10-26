@@ -2,8 +2,6 @@
 
 How good are bookmakers at pricing soccer matches, and where does the market get it wrong?
 
-Course project, Boğaziçi University.
-
 ## The problem
 
 A bookmaker's odds imply a probability for each outcome. If those implied probabilities are well calibrated, they should match how often the outcome actually happens. Where they don't, there is either noise in the data or an exploitable bias. This project tests which.
